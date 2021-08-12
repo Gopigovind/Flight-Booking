@@ -13,7 +13,7 @@
 
 ## Getting started
 ```bash
-$ git clone  <YOUR_FOLDER_NAME>
+$ git clone https://github.com/Gopigovind/Flight-Booking.git <YOUR_FOLDER_NAME>
 $ cd <YOUR_FOLDER_NAME>
 $ npm install 
 $ npm run build
